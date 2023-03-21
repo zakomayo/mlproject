@@ -4,6 +4,7 @@ numpy
 matplotlib
 scikit-learn
 catboost
-xgboostcon
+xgboost
 dill
+Flask
 #-e .  
